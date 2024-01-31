@@ -1,0 +1,30 @@
+# Node.js
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Next.js
+.next/
+out/
+
+# Build artifacts
+build/
+dist/
+
+# Environment variables
+.env.development.local
+.env.test.local
+.env.production.local
+
+# IDE files
+.vscode/
+.idea/
+*.iml
+
+# Logs
+logs/
+*.log
+
+# Dependency lock files
+yarn.lock
+package-lock.json
