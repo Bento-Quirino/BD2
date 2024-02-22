@@ -21,5 +21,6 @@ Com isso, temos a seguinte tarefa:
 ## Considerações finais
 - Deve ser entregue o link de um powerpoint do aluno com o tema
 - CÓPIAS não serão aceitas, assim anulando a prova
+- Se não for colocado nome, não será avaliado depois
 - SE o conteúdo dos slides forem criados Inteligências Artificiais Generativas (BlackBox AI, ChatGPT, Github Copilot, Bing chat ou outros) a prova será anulada
-- Entregar até dia **28/02/2024** no link do google sheets onde está seu nome (Este Link)
+- Entregar até dia **28/02/2024** no link e colocar NOME COMPLETO NO SLIDE E NA COLUNA NOME [LINK DA ENTREGA](https://docs.google.com/spreadsheets/d/1jkSQX6hjFVTlsSpavkK7suILKtkxOKPOHfUP9sOwFa4/edit?usp=sharing)
