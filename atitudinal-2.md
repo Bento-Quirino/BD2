@@ -34,6 +34,7 @@ E além disso precisamos de ferramentas para montar esses diagramas, não podemo
 > - legenda, o texto da postagem deve ser OBRIGATÓRIO, não importa se é apenas texto, ou texto e imagem
 > - imagem, PODEMOS OU NÃO, postar imagens junto com legendas
 > - curtidas, sendo um numero inteiro não negativo, diferente de algumas redes sociais
+> 
 > E precisamos que os usuários tenham:
 > - nome de usuário, com no mínimo 5 caracteres e deve ser único (Ex: @meu_username)
 > - celular, obrigatorio com codigo do pais, codigo de area e numero
