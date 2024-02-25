@@ -12,3 +12,7 @@ NoSQL é um termo genérico que se refere a bancos de dados não relacionais. Di
 
 Existem vários tipos de bancos de dados NoSQL, incluindo bancos de dados de documentos, bancos de dados de chave-valor, bancos de dados de colunas e bancos de dados de grafos. Cada tipo tem suas próprias características e casos de uso adequados.
 
+## Criando documentações
+
+Quando estamos criando ou realizando manutenções em partes do nosso banco de dados, precisamos de uma "planta" (como a de uma casa), um lugar para consultarmos e sabermos o que temos alí e por onde estamos andando. Nesse caso, temos um padão de "planta" para os bancos de dados e são chamados de DER e MER (Diagrama de entidade e relacionamento ou Modelo e entidade relacionamento), veja alguns sites para revisarmos esses conceitos:
+- [O que é um MER?](https://www.lucidchart.com/pages/pt/o-que-e-um-modelo-de-banco-de-dados)
