@@ -48,10 +48,17 @@ E além disso precisamos de ferramentas para montar esses diagramas, não podemo
 - [Padrões de nomes de tabelas e campos](https://gist.github.com/thiamsantos/654ec002f04c86d53611923a8b4c3a65)
 - [Padrões a se seguir em bancos de dados](https://www.devmedia.com.br/padronizacao-de-nomenclatura-revista-sql-magazine-100/24710)
 - [Como usar o brmodelo](https://youtu.be/ZYmRVCk_xBw?si=bLChdptcmm6NPxg7)
+- [Documentação dbdiagram](https://dbml.dbdiagram.io/docs/#project-definition)
 - [Como usar o brmodelo com outro professor](https://youtu.be/IjTtPfIv_aA?si=Mnwvyc-9udlCJDAU)
 
 ### Pontuação
 
-- Padrões com os nomes das tabelas e nomes dos campos
+- Padrões, como os nomes das tabelas e nomes dos campos
 - Cardinalidades
-- Campos inseridos e tipos de dados **SE** o diagrama mostrar
+- Campos e tipos de dados **SE** o diagrama mostrar os tipos de dados
+- Formas normais
+
+### Considerações
+- COLA ou CÓPIA ou PLÁGIO serão zerados ambos os envolvidos e encaminhados a direção com os trabalhos
+- Os trabalhos devem ser feitos utilizando alguma das ferramentas mostradas em aula (dbdiagram, brmodelo ou lucidchart)
+- Documentações feitas no paint, ou similares não serão consideradas
