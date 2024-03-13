@@ -31,3 +31,5 @@ Precisaremos guardar informações sobre os **carros**, os **clientes** e os **a
 - Os alunos devem com base no que foi estudado, **escolher as chaves primárias OU criar se necessário para cada tabela** além de adicionar marcadores para dizer se o atributo é **obrigatório** ou **único**
 - Criar o DER/MER usando o dbdiagram
 - Compartilhar o link do diagrama no excel 
+
+https://docs.google.com/spreadsheets/d/1jkSQX6hjFVTlsSpavkK7suILKtkxOKPOHfUP9sOwFa4/edit#gid=186001220
