@@ -1,5 +1,5 @@
 # Prova de Banco
-A prova será um projeto que deverá ser entregue até o dia 12/02/2024.
+A prova será um projeto que deverá ser entregue até o dia 13/02/2024.
 O projeto deverá ser feito em grupos de 3 e deverá ser entregue um único projeto para o grupo.
 
 ##
